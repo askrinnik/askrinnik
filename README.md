@@ -20,4 +20,4 @@ Senior Backend Engineer (C#/.NET) based in Estonia. 20+ years of building, shipp
 
 [OtlpMeterUsing](https://github.com/askrinnik/OtlpMeterUsing) · [OpenTelemetryUsing](https://github.com/askrinnik/OpenTelemetryUsing) · [OtlpTracingUsing](https://github.com/askrinnik/OtlpTracingUsing) · [MassTransitUsing](https://github.com/askrinnik/MassTransitUsing) · [RabbitMqExample](https://github.com/askrinnik/RabbitMqExample) · [YarpGateway](https://github.com/askrinnik/YarpGateway) · [LokiUsing](https://github.com/askrinnik/LokiUsing)
 
-📫 [LinkedIn](https://www.linkedin.com/in/oleksandr-skrynnik-608b2335) · sanyascr@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/oleksandr-skrynnik-608b2335)
