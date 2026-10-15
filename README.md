@@ -1,6 +1,6 @@
 ### Hi, I'm Oleksandr 👋
 
-Senior Backend Engineer (C#/.NET) based in Estonia. 20+ years of building, shipping and maintaining .NET systems, from .NET Framework to .NET 10. Most of that time I worked on **MetraNet**, a FinTech Billing-as-a-Service platform on Azure that handles millions of transactions a day.
+Senior Backend Engineer (C#/.NET) based in Estonia. 20+ years of building, shipping and maintaining .NET systems, from .NET Framework to .NET 10. Most of that time I worked on **Kansys Edge** (formerly MetraNet), a FinTech Billing-as-a-Service platform that handles millions of transactions a day.
 
 - 🛠️ **Day to day:** ASP.NET Core Web APIs, Blazor, SQL Server and Entity Framework, Azure and AWS, Docker, CI/CD with Azure DevOps and GitHub Actions
 - 🔀 **Distributed systems:** RabbitMQ, MassTransit, Amazon SQS, YARP, OpenTelemetry, Grafana (Loki, Tempo, Prometheus)
