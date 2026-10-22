@@ -13,7 +13,7 @@ Senior Backend Engineer (C#/.NET) based in Estonia. 20+ years of building, shipp
 |---|---|
 | [AutoRunManager](https://github.com/askrinnik/AutoRunManager) | Windows 11 app that lists every autostart location (Run keys, tasks, services, WMI, etc.) and lets you disable or remove entries safely |
 | [BtVolumeGuard](https://github.com/askrinnik/BtVolumeGuard) | Tray app that stops Bluetooth headsets from jumping to 100% volume when a Teams call starts |
-| [AddressBook2025](https://github.com/askrinnik/AddressBook2025) | Pet project with a modern ASP.NET web application using Blazor WebAssembly, a REST API, and a SQL database. |
+| [AddressBook](https://github.com/askrinnik/AddressBook) | Pet project with a modern ASP.NET web application using Blazor WebAssembly, a REST API, and a SQL database. |
 
 #### 📚 Examples and experiments
 
