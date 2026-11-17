@@ -11,7 +11,7 @@ Senior Backend Engineer (C#/.NET) based in Estonia. 20+ years of building, shipp
 
 | Project | What it does |
 |---|---|
-| [ai-plugins](https://github.com/askrinnik/ai-plugins) | Plugin marketplace for Claude Code and GitHub Copilot: issue-kit (takes a GitHub issue from plan to pull request with planner, developer, build and ship agents and a commit message check), jobsearch-kit (vacancy analysis, tailored CVs, cover letters, application records, call transcripts; also runs in Copilot) and harness-kit (session cost and context profiling, harness quality checks on fixed test sessions), with headless skill tests |
+| [ai-plugins](https://github.com/askrinnik/ai-plugins) | Claude Code plugin marketplace: issue-kit (takes a GitHub issue from plan to pull request with planner, developer, build and ship agents and a commit message check), jobsearch-kit (vacancy analysis, tailored CVs, cover letters, application records, call transcripts; also runs in Copilot) and harness-kit (session cost and context profiling, harness quality checks on fixed test sessions), with headless skill tests |
 | [PaymentsLab](https://github.com/askrinnik/PaymentsLab) | Learning project: a payments Web API on MongoDB 8 and .NET 10. Driver vs EF Core provider, idempotency, optimistic concurrency with ETag, transactional outbox (MassTransit + RabbitMQ), change streams, tests on a real MongoDB with Testcontainers |
 | [AutoRunManager](https://github.com/askrinnik/AutoRunManager) | Windows 11 app that lists every autostart location (Run keys, tasks, services, WMI, etc.) and lets you disable or remove entries safely |
 | [BtVolumeGuard](https://github.com/askrinnik/BtVolumeGuard) | Tray app that stops Bluetooth headsets from jumping to 100% volume when a Teams call starts |
